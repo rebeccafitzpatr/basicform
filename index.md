@@ -44,7 +44,7 @@
     <input type="text" id="fname" name="fname"><br>
     <label for="email">Email:</label><br>
     <input type="email" id="email" name="email">
-  
+    <br/>
     <label for="issue">What is your issue:</label><br>
     <input type="radio" id="query" name="issue" value="query">
     <label for="male">Query</label><br>
@@ -54,7 +54,7 @@
     <label for="female">Complaint</label><br>
     <input type="radio" id="other" name="issue" value="other">
     <label for="other">Other</label>
-
+    <br/>
     <input type="submit" value="Submit">
 
   </form>
